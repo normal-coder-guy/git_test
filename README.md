@@ -1,1 +1,1 @@
-This is normal_coder_guy's first project!
+This is normal-coder-guy's first project!
